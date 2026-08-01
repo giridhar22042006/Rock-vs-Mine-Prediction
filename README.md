@@ -37,9 +37,9 @@ This project classifies whether an object detected by SONAR is a **Rock (R)** or
 
 ## Results
 
-Training Accuracy: (Your Result)
+Training Accuracy: 0.8235294117647058
 
-Testing Accuracy: (Your Result)
+Testing Accuracy: 0.8235294117647058
 
 ## Future Improvements
 
